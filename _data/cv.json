@@ -1,0 +1,189 @@
+{
+  "basics": {
+    "name": "Uche Mennel",
+    "label": "Software Craftsman",
+    "picture": "",
+    "email": "umennel@gmx.ch",
+    "summary": "I am a software craftsman who enjoys working in a dynamic and interdisciplinary environment, always interested in new technologies and learning from others to improve my skills. I like to solve problems in the most consistent and elegant way. Just because it's fun. And because I believe that it pays of in the long run.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Zurich",
+      "countryCode": "CH",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "umennel",
+        "url": ""
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Uche Mennel",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "ANSYS",
+      "position": "Senior Software Developer",
+      "website": "https://www.ansys.com/",
+      "startDate": "Sep 2013",
+      "endDate": "",
+      "summary": "As part of a team with about 10 members, I am responsible for:",
+      "highlights": [
+        "Development of a distributed asynchronous data pipeline to leverage integration of heterogeneous/legacy software modules and scalability of computing resources. The data pipeline was mainly used for post-processing (i.e. visualization) of solver output (Python, C++, Boost, Twisted, gRPC, Protocol Bufers)",
+        "Python 3 migration and coordination with several teams across the globe",
+        "Maintenance of ACP (ANSYS Composite PrepPost) and its integration into ANSYS Workbench (Python, C#, C++, ZeroMQ)",
+        "Solving technical problems with customers",
+        "Organizing team-internal technical talks",
+        "Coordinating the development infrastructure for our team with several other development teams (Git, Linux, Artifactory, VSTS, TypeScript, TeamCity, Python, Docker)",
+        "Screening and interviewing of job candidates"
+      ]
+    },
+    {
+      "company": "ti&m",
+      "position": "Software Developer",
+      "website": "https://www.ti8m.ch/",
+      "startDate": "Mar 2012",
+      "endDate": "Jul 2013",
+      "summary": "Worked on various IT-projects in the banking and government sector as developer and consultant",
+      "highlights": [
+        "Development of a Windows 8 store app to administer enterprise cash equivalents (C#, XAML, MS-SQL, WCF, HTML5, JavaScript)",
+        "Elaboration of a detail concept and technical specifcation for a mobile cantonal tax application"
+      ]
+    },
+    {
+      "company": "Evolutionary Engineering",
+      "position": "Software Developer",
+      "website": "",
+      "startDate": "Sep 2006",
+      "endDate": "Dec 2011",
+      "summary": "Implementation of CAE applications involving fnite element calculations, stochastic optimization, management and visualization of large datasets (C++, Python, SQL, C#, VTK, wxPython, HDF5)",
+      "highlights": []
+    },
+    {
+      "company": "ETH Zurich",
+      "position": "Research Assistant",
+      "website": "https://www.ethz.ch/",
+      "startDate": "Mai 2006",
+      "endDate": "Aug 2006",
+      "summary": "Publication and documentation of code emerged from master thesis",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Zurich Python User Group",
+      "position": "Organizer",
+      "website": "http://www.meetup.com/pyzurich",
+      "startDate": "Sep 2009",
+      "endDate": "",
+      "summary": "We meet regularly to hear about new and old things within the Python ecosystem",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "ETH Zurich",
+      "area": "Computer Science",
+      "studyType": "MSc",
+      "startDate": "2006",
+      "endDate": "2001",
+      "courses": [
+        "Major: Computational Science (Linear Algebra, FEM)",
+        "Master Thesis: A multilevel PCG algorithm for μ-FE analysis of bone structures"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "ParFE - A fully-parallel FE code",
+      "releaseDate": "2006",
+      "website": "http://parfe.sourceforge.net/",
+      "summary": "Fully-parallel finite element solver to simulate linear elasticity of microstructural bone models"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Advanced",
+      "keywords": [
+        "Python",
+        "(modern) C++",
+        "C#",
+        "TypeScript",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Numerical Simulation",
+      "level": "Advanced",
+      "keywords": [
+        "FEM",
+        "HPC",
+        "Post-Processing"
+      ]
+    },
+    {
+      "name": "Networking",
+      "level": "Advanced",
+      "keywords": [
+        "Twisted",
+        "Boost Asio",
+        "gRPC",
+        "Protocol Buffers",
+        "ZeroMQ",
+        "cpp-netlib"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "Advanced",
+      "keywords": [
+        "Git",
+        "CMake",
+        "Premake",
+        "Azure DevOps",
+        "TeamCity",
+        "VS Code",
+        "Docker"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "Advanced",
+      "keywords": [
+        "Linux",
+        "Windows"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent (Worked for 5 years at Ansys, an American software company)"
+    },
+    {
+      "language": "French",
+      "fluency": "Fair (Intern for 3 months in Tunis, 3 months of civil service in Lausanne)"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "Football",
+        "Inline Skating",
+        "Alpine Skiing",
+        "Kite Boarding"
+      ]
+    }
+  ]
+}
