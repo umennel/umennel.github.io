@@ -1,0 +1,20 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+// Theme skin
+//@import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
+
+
+$base-color: #8e534c !default;
+$text-color: #222 !default;
+$accent-color: #9d4931 !default;
+$background-color: #d2d2d2 !default;
+$code-background-color: #fff !default;
+$border-color: rgba($text-color, 0.5) !default;
+$overlay-color: #fff !default;
+
+@import "basically-basic";
+
